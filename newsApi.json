@@ -1,0 +1,85 @@
+{
+    "status": "ok",
+    "totalResults": 37,
+    "articles": [
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Police fire tear gas as anti-restrictions \"Freedom Convoy\" enters Paris - Reuters",
+            "description": "A protest convoy breached police defences and drove into central Paris on Saturday, snarling traffic around the Arc de Triomphe and on the Champs Elysees, as police fired tear gas at demonstrators protesting against COVID-19 restrictions.",
+            "url": "https://www.reuters.com/world/europe/police-stop-50-vehicles-heading-paris-protest-convoy-2022-02-12/",
+            "urlToImage": "https://www.reuters.com/resizer/iXS_BoHv1tjXLaFzZkT_5PYaXtI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2ZXLHB5XZNOHNOLMIDS7UUQICY.jpg",
+            "publishedAt": "2022-02-12T16:25:00Z",
+            "content": "PARIS, Feb 12 (Reuters) - A protest convoy breached police defences and drove into central Paris on Saturday, snarling traffic around the Arc de Triomphe and on the Champs Elysees, as police fired te… [+3360 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Maegan Vazquez, Jasmine Wright and Donald Judd, CNN",
+            "title": "Biden and Putin holding phone call as tension builds over Russian threat to Ukraine - CNN",
+            "description": "President Joe Biden and Russian President Vladimir Putin are speaking on Saturday as escalating concerns over a possible Russian invasion of Ukraine grip Western governments.",
+            "url": "https://www.cnn.com/2022/02/12/politics/biden-putin-call-ukraine/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211230103953-biden-putin-call-123021-super-tease.jpg",
+            "publishedAt": "2022-02-12T16:16:00Z",
+            "content": "(CNN)President Joe Biden and Russian President Vladimir Putin are speaking on Saturday as escalating concerns over a possible Russian invasion of Ukraine grip Western governments.\r\nThe conversation b… [+4979 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "KATHY GANNON Associated Press",
+            "title": "Afghans protest US order to give $3.5B to 9/11 victims - ABC News",
+            "description": "",
+            "url": "https://abcnews.go.com/US/wireStory/afghans-protest-us-order-give-35-911-victims-82844244",
+            "urlToImage": "https://s.abcnews.com/images/US/WireAP_3dcd48860e44439a893fcceee8fa39e6_16x9_992.jpg",
+            "publishedAt": "2022-02-12T15:56:15Z",
+            "content": "KABUL, Afghanistan -- Demonstrators in Afghanistans capital Saturday condemned President Joe Bidens order freeing up $3.5 billion in Afghan assets held in the U.S. for families of Americas 9/11 victi… [+3705 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "Super Bowl 2022 odds, expert picks, live stream: Best bets, predictions, player props for Rams vs. Bengals - CBS Sports",
+            "description": "CBSSports.com and SportsLine make best bets and player props for Super Bowl LVI",
+            "url": "https://www.cbssports.com/nfl/news/super-bowl-2022-odds-expert-picks-live-stream-best-bets-predictions-player-props-for-rams-vs-bengals/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/02/11/ef7f5342-33a0-400b-839b-6df29d6baa50/thumbnail/1200x675/69eca6a34f7c01de330c9ede0429d3da/ramsbengalshelmets.jpg",
+            "publishedAt": "2022-02-12T15:36:00Z",
+            "content": "The 2022 Super Bowl is finally here, and if you haven't locked in your bets and chosen your player props, it's about time you did. With how wild and unpredictable the playoffs have been, why shouldn'… [+11108 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "William Watts",
+            "title": "What a Russian invasion of Ukraine would mean for markets as White House warns attack could come 'any day now' - MarketWatch",
+            "description": "Stocks sink, oil could test $100 a barrel if conflict breaks out",
+            "url": "https://www.marketwatch.com/story/what-a-russian-invasion-of-ukraine-would-mean-for-markets-as-white-house-warns-attack-could-come-any-day-now-11644624056",
+            "urlToImage": "https://images.mktw.net/im-485096/social",
+            "publishedAt": "2022-02-12T15:17:00Z",
+            "content": "Investors on Friday got a taste of the sort of market shock that could come if Russia invades Ukraine. The spark came as Jake Sullivan, the White House national security adviser, warned Friday aftern… [+4264 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Nadine El-Bawab",
+            "title": "Police in riot gear block trucker protest area on US-Canada border - ABC News",
+            "description": "",
+            "url": "https://abcnews.go.com/US/police-arrive-canada-us-border-disperse-truck-protesters/story?id=82845259",
+            "urlToImage": "https://s.abcnews.com/images/International/truck-canada-1-rt-er-220212_1644674780804_hpMain_16x9_992.jpg",
+            "publishedAt": "2022-02-12T15:00:00Z",
+            "content": "Canadian police on Saturday blocked off the area surrounding the Ambassador Bridge over the U.S.-Canadian border and surrounded a group of about 100 protesters at the foot of the bridge. All protesto… [+1507 chars]"
+        }
+    
+    ]
+}
